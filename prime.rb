@@ -1,4 +1,4 @@
-require prime
+require 'prime'
 # Add  code here!
 def prime?(integer)
   return false if integer < 2
